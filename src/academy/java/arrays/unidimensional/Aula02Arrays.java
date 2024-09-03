@@ -3,7 +3,7 @@
     dos números do v1 com os correspondentes em v2.
 
  */
-package academy.java.arrays;
+package academy.java.arrays.unidimensional;
 
 public class Aula02Arrays {
     public static void main(String[] args) {

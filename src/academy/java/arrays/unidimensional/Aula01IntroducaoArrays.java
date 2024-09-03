@@ -4,7 +4,7 @@
        int[] numeros = {1,2,3};` --  aqui criei o array e  inicializei já repassando os valores
  */
 
-package academy.java.arrays;
+package academy.java.arrays.unidimensional;
 
 import java.util.Arrays;
 

@@ -3,7 +3,7 @@
     se a nota for válida então o programa deverá realizar o cálculo da média  se não for um valor válido
     o programa deverá solicitar que o usuário digite um valor válido.
  */
-package academy.java.arrays;
+package academy.java.arrays.unidimensional;
 
 import java.util.Scanner;
 
