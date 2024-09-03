@@ -5,7 +5,7 @@
  */
 package academy.java.arrays;
 
-public class Aula02ArraysMultidimensional {
+public class Aula02Arrays {
     public static void main(String[] args) {
         int v1[] = {1,2,3,4,5,6,7,8,9};
         int v2[] = {2,3,4,5,6,7,8,9,10};

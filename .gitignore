@@ -1,0 +1,8 @@
+# Ignorar diretório .idea
+.idea/
+
+# Ignorar diretório out
+out/
+
+#Ignorar arquivo
+logica-programacao.iml
